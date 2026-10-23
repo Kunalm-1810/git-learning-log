@@ -23,4 +23,6 @@ I'm learning Git and version control to track my work.
 - this is feature branch changes
 - this is for git revert 
 
-- this is for sqaushing commit 
+- this is for sqaushing commit
+
+- looking for changes
