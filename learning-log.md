@@ -17,4 +17,8 @@ I'm learning Git and version control to track my work.
 - You can merge branches back together when ready
 - edited from remote repo
 - making changes for merge
+- making changes in local machine
 - for git fetch 11111
+- for git reset --soft
+
+
