@@ -15,9 +15,13 @@ I'm learning Git and version control to track my work.
 - Git tracks changes to files over time
 - Branches let you experiment without affecting the main project
 - You can merge branches back together when ready
+<<<<<<< Updated upstream
 - edited from remote repo
 - making changes for merge
 - making changes in local machine
 - for git fetch 11111
 
 
+=======
+- this is feature branch changes
+>>>>>>> Stashed changes
